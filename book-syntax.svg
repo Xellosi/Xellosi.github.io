@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="420" viewBox="0 0 320 420" role="img">
-  <rect width="320" height="420" rx="10" fill="#314d45"/>
-  <path d="M72 94h176v84H72z" fill="#d9eadf"/>
-  <path d="M92 126h52M92 150h96M174 126h34" stroke="#314d45" stroke-width="8" stroke-linecap="round"/>
-  <text x="52" y="268" fill="#ffffff" font-family="ui-monospace, monospace" font-size="32" font-weight="700">Beyond</text>
-  <text x="52" y="310" fill="#ffffff" font-family="ui-monospace, monospace" font-size="32" font-weight="700">the</text>
-  <text x="52" y="352" fill="#ffffff" font-family="ui-monospace, monospace" font-size="32" font-weight="700">Syntax</text>
-</svg>
