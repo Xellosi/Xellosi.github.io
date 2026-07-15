@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="420" viewBox="0 0 320 420" role="img">
+  <rect width="320" height="420" rx="10" fill="#5b513b"/>
+  <circle cx="236" cy="88" r="42" fill="#d8b365"/>
+  <path d="M58 116h122M58 150h154M58 184h104" stroke="#fff8e1" stroke-width="10" stroke-linecap="round"/>
+  <text x="56" y="278" fill="#ffffff" font-family="ui-monospace, monospace" font-size="34" font-weight="700">APIs</text>
+  <text x="56" y="320" fill="#ffffff" font-family="ui-monospace, monospace" font-size="34" font-weight="700">in</text>
+  <text x="56" y="362" fill="#ffffff" font-family="ui-monospace, monospace" font-size="34" font-weight="700">Practice</text>
+</svg>

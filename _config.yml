@@ -1,0 +1,9 @@
+# GitHub Pages site metadata. Vite copies this file to the root of dist/.
+title: Xellosi
+description: A personal portfolio and technical writing site.
+lang: en
+timezone: Asia/Taipei
+
+# The site is built by Vite, so GitHub Pages does not need a Jekyll theme.
+theme: null
+plugins: []
